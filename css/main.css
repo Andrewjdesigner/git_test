@@ -1,7 +1,10 @@
 main {
     background: #FAFAFA;
+    padding: 20px 0;
 }
 
 .main-content {
     background: #FFF;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 5%);
 }
